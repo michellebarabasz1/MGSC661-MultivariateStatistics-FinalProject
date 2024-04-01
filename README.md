@@ -1,1 +1,2 @@
-# MGSC661-MultivariateStatistics-FinalProject
+# Decoding Chocolate Ratings
+This project aimed to predict whether a chocolate bar will receive a high or low rating based on features like cocoa percentage, bean type, and broad bean origin. By employing classification algorithms such as Logistic Regression, Random Forest, and Clustering, it explored the factors influencing chocolate ratings and their geographic variations. The project's outcome provided valuable insights for chocolate producers to refine their offerings, optimize flavors, and meet the evolving expectations of chocolate enthusiasts.
